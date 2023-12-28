@@ -9,19 +9,20 @@ This banking system program is designed to manage accounts, clients, transaction
 - File Structure
 - Contributing
 - Overview
-- This program is implemented in C and allows users to perform various banking operations. It includes functionalities to:
 
-Create and manage accounts for different account types (courant, épargne, jeune, professionnel).
+This program is implemented in C and allows users to perform various banking operations. It includes functionalities to:
 
-Add and manage clients with personal information.
+- Create and manage accounts for different account types (courant, épargne, jeune, professionnel).
 
-Conduct transactions like deposits, withdrawals, and transfers between accounts.
+- Add and manage clients with personal information.
 
-Convert currency with exchange rates for EUR, USD, and TND.
+- Conduct transactions like deposits, withdrawals, and transfers between accounts.
 
-Manage subscription plans with various benefits and monthly fees.
+- Convert currency with exchange rates for EUR, USD, and TND.
 
-Perform operations like creating, modifying, and deleting accounts and clients.
+- Manage subscription plans with various benefits and monthly fees.
+
+- Perform operations like creating, modifying, and deleting accounts and clients.
 
 ## Features
 
