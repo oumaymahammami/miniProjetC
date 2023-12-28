@@ -10,7 +10,9 @@ This banking system program is designed to manage accounts, clients, transaction
 - Contributing
 - Overview
 
-This program is implemented in C and allows users to perform various banking operations. It includes functionalities to:
+This program is implemented in C and allows users to perform various banking operations.
+
+It includes functionalities to:
 
 - Create and manage accounts for different account types (courant, épargne, jeune, professionnel).
 
