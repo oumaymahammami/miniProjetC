@@ -1,8 +1,8 @@
-##Banking System Program
+# Banking System Program
 
 This banking system program is designed to manage accounts, clients, transactions, and subscriptions within a banking system. It allows users to perform various operations such as creating accounts, managing clients, conducting transactions, and more
 
-Table of Contents
+## Table of Contents
 - Overview
 - Features
 - How to Use
@@ -23,7 +23,7 @@ Manage subscription plans with various benefits and monthly fees.
 
 Perform operations like creating, modifying, and deleting accounts and clients.
 
-Features
+## Features
 
 - Account Management: Create, modify, and delete different types of accounts.
 - Client Management: Add, view, and manage client information.
@@ -31,7 +31,7 @@ Features
 - Currency Exchange: Perform currency exchange between EUR, USD, and TND.
 - Subscription Plans: Manage subscription plans with associated benefits and fees.
   
-How to Use
+## How to Use
 
 Compile the Program: Compile the program using a C compiler (e.g., gcc).
 
@@ -41,7 +41,7 @@ Follow Console Instructions: Interact with the program through the console inter
 
 Perform Operations: Create accounts, manage clients, conduct transactions, and utilize subscription plans.
 
-File Structure
+## File Structure
 
 main.c: Contains the main program code.
 
@@ -49,6 +49,6 @@ structures.h: Header file containing structures used in the program.
 
 functions.c: Implementation of various functions used in the program.
 
-Contributing
+## Contributing
 
 Contributions to this banking system program are welcome! Feel free to open issues or pull requests for enhancements, bug fixes, or additional features.
