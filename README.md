@@ -34,22 +34,20 @@ This program is implemented in C and allows users to perform various banking ope
   
 ## How to Use
 
-Compile the Program: Compile the program using a C compiler (e.g., gcc).
+- Compile the Program: Compile the program using a C compiler (e.g., gcc).
 
-Run the Executable: Execute the compiled program.
+- Run the Executable: Execute the compiled program.
 
-Follow Console Instructions: Interact with the program through the console interface.
+- Follow Console Instructions: Interact with the program through the console interface.
 
-Perform Operations: Create accounts, manage clients, conduct transactions, and utilize subscription plans.
+- Perform Operations: Create accounts, manage clients, conduct transactions, and utilize subscription plans.
 
 ## File Structure
 
-main.c: Contains the main program code.
+- main.c: Contains the main program code.
 
-structures.h: Header file containing structures used in the program.
-
-functions.c: Implementation of various functions used in the program.
+- functions.c: Implementation of various functions used in the program.
 
 ## Contributing
 
-Contributions to this banking system program are welcome! Feel free to open issues or pull requests for enhancements, bug fixes, or additional features.
+- Contributions to this banking system program are welcome! Feel free to open issues or pull requests for enhancements, bug fixes, or additional features.
