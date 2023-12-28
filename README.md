@@ -9,8 +9,8 @@ Overview
 This program is implemented in C and allows users to perform various banking operations. It includes functionalities to:
 
 Create and manage accounts for different account types (courant, épargne, jeune, professionnel).
-Add and manage clients with personal information.
-Conduct transactions like deposits, withdrawals, and transfers between accounts.
+- Add and manage clients with personal information.
+- Conduct transactions like deposits, withdrawals, and transfers between accounts.
 Convert currency with exchange rates for EUR, USD, and TND.
 Manage subscription plans with various benefits and monthly fees.
 Perform operations like creating, modifying, and deleting accounts and clients.
